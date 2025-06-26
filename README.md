@@ -4,7 +4,7 @@ Engineering a fully bootable Linux OS from scratch, compiling 80+ packages acros
 (This is not a traditional installation. Every component is isntalled from source code, manually configured system settings, and ultimately created a bootable Linux system built by me.)
 
 
-## ⚙️ Version and Build Plan
+## Version and Build Plan
 **Target System**: x86_64 Pure 64-bit </br>
 **Partitioning**: Manual fdisk + formatted with ext4 </br>
 **Kernel Version**: Linux 6.13.4 </br>
