@@ -10,3 +10,6 @@ Engineering a fully bootable Linux OS from scratch, compiling 80+ packages acros
 **Kernel Version**: Linux 6.13.4 </br>
 **Bootloader**: GRUB 2.12 </br>
 **Shell**: Bash 5.2.37 </br>
+
+## Packages Used
+Here is a list of all the packages that I have used along with their versions: [Here.](https://github.com/SMUGLER79/BootLine/tree/main/All%20Packages)
